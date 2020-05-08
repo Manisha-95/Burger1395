@@ -1,0 +1,9 @@
+.logo {
+  height: 65%;
+  background-color: aliceblue;
+  border-radius: 5px;
+  padding: 10px;
+}
+.logo img {
+  height: 100%;
+}
